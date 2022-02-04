@@ -2,7 +2,7 @@
 
 This project entailed working with SQL to evaluate employees who reached or were nearing retirement eligibility. My client aimed to use this information to future-proof the organization. Knowledge management and succession planning is a key component of ensuring that an organization can prepare for a present and future workforce. 
 
-##Overview ##
+## Overview ##
 
 In the first level of analysis, I generated several CSV files according to different retirement metrics, usually sorting by the unique employee identifier.
 
