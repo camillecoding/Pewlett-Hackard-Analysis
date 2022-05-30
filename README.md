@@ -1,6 +1,6 @@
 # Pewlett-Hackard-Analysis
 
-This project entailed working with SQL to evaluate employees who reached or were nearing retirement eligibility. My client aimed to use this information to future-proof the organization. Knowledge management and succession planning is a key component of ensuring that an organization can prepare for a present and future workforce. 
+This project involved using SQL to evaluate employees who reached or were nearing retirement eligibility, as determined only by the employee's birth date. Several text files were joined in a new table to reduce the extraneous information that wouldn't add to my analysis. My client aimed to use this information to future-proof the organization. Knowledge management and succession planning is a key component of ensuring that an organization can prepare for a present and future workforce. 
 
 ## Overview ##
 
