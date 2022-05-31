@@ -32,3 +32,7 @@ There are several key takeaways from this project.
 This analysis aimed to prepare this client for a wave of potential upcoming retirements. It generalized things like common retirement age, although this could be more accurately informed by evaluating national economic conditions along with company-wide historical retirement data.
 
 Two queries that would make this analysis more effective would consider tenure with the company as informing retirement decisions and categorizing potential retiring employees by department so that departments could better prepare. 
+
+## Final Tableau Story ##
+
+I returned to this project to create a Tableau Story to illustrate more of the insights I found in this data. [Review my synopsis of Pewlet Hackard Retirement Insights here.](https://public.tableau.com/shared/JWR4XB5R2?:display_count=n&:origin=viz_share_link)
